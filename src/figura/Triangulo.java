@@ -1,3 +1,4 @@
+package figura;
 
 public class Triangulo extends Poligono {
 

@@ -1,12 +1,13 @@
+package figura;
 
-public class Esfera extends Poligono3D {
+public class Cilindro extends Poligono3D{
 	private double raio;
-
-	public Esfera() {
+	
+	public Cilindro() {
 		super();
 	}
 
-	public Esfera(double raio) {
+	public Cilindro(double raio) {
 		super();
 		this.raio = raio;
 	}
@@ -21,6 +22,6 @@ public class Esfera extends Poligono3D {
 
 	@Override
 	public double volume() {
-		return (4 * Math.PI * Math.pow(this.getRaio(), 3) / 3);
+		return (Math.PI * Math.pow(raio, 2)) * this.getAltura();
 	}
 }

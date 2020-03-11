@@ -1,3 +1,4 @@
+package figura;
 
 public abstract class Poligono extends Figura{
 	private double base;

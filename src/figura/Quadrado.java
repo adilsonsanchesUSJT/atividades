@@ -1,3 +1,4 @@
+package figura;
 
 public class Quadrado extends Poligono implements Diagonal {
 	

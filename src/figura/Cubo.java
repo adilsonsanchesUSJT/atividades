@@ -1,3 +1,4 @@
+package figura;
 
 public class Cubo extends Poligono3D{
 

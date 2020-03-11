@@ -1,3 +1,4 @@
+package figura;
 
 public class Losango extends Poligono {
 	

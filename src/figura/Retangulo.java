@@ -1,3 +1,4 @@
+package figura;
 
 public class Retangulo extends Poligono implements Diagonal {
 
