@@ -1,3 +1,4 @@
+package figura;
 
 public class Piramide extends Poligono3D {
 	@Override

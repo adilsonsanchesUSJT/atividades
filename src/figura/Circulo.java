@@ -1,3 +1,4 @@
+package figura;
 
 public class Circulo extends Figura{
 

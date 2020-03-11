@@ -1,3 +1,4 @@
+package figura;
 
 public abstract class Poligono3D {
 	private double base;
